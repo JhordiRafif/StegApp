@@ -1,4 +1,4 @@
-## Implementasi Steganografi
+## Implementasi Steganografi ( Rafif Jhordi	,1908561102 & Putu Vidi Nararia Ningrat ,1908561106)
 
 #### Home
 
